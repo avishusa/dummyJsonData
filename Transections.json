@@ -1,0 +1,102 @@
+[
+  {
+    "Date": "Feb 1 2023",
+    "Amount": 120,
+    "Company": "Challenger"
+  },
+  {
+    "Date": "Mar 24 2023",
+    "Amount": 140,
+    "Company": "Bubble"
+  },
+  {
+    "Date": "Apr 12 2023",
+    "Amount": 120,
+    "Company": "Starburst"
+  },
+  {
+    "Date": "May 17 2023",
+    "Amount": 80,
+    "Company": "Bubble"
+  },
+  {
+    "Date": "June 18 2023",
+    "Amount": 80,
+    "Company": "Starburst"
+  },
+  {
+    "Date": "June 24 2023",
+    "Amount": 120,
+    "Company": "Challenger"
+  },
+  {
+    "Date": "July 12 2023",
+    "Amount": 260,
+    "Company": "Brainwave"
+  },
+  {
+    "Date": "August 12 2023",
+    "Amount": 240,
+    "Company": "Starburst"
+  },
+  {
+    "Date": "Aug 18 2024",
+    "Amount": 120,
+    "Company": "Brainwave"
+  },
+  {
+    "Date": "Sept 29 2023",
+    "Amount": 100,
+    "Company": "Challenger"
+  },
+  {
+    "Date": "Oct 12 2023",
+    "Amount": 140,
+    "Company": "Brainwave"
+  },
+  {
+    "Date": "Nov 24 2023",
+    "Amount": 160,
+    "Company": "Orbit"
+  },
+  {
+    "Date": "Dec 12 2023",
+    "Amount": 120,
+    "Company": "Challenger"
+  },
+  {
+    "Date": "Jan 03 2024",
+    "Amount": 240,
+    "Company": "Starburst"
+  },
+  {
+    "Date": "Jan 19 2024",
+    "Amount": 180,
+    "Company": "Orbit"
+  },
+  {
+    "Date": "Feb 1 2024",
+    "Amount": 120,
+    "Company": "Brainwave"
+  },
+  {
+    "Date": "Feb 04 2024",
+    "Amount": 120,
+    "Company": "Challenger"
+  },
+  {
+    "Date": "Feb 09 2024",
+    "Amount": 80,
+    "Company": "Orbit"
+  },
+  {
+    "Date": "Feb 14 2024",
+    "Amount": 60,
+    "Company": "Starburst"
+  },
+  {
+    "Date": "Feb 15 2024",
+    "Amount": 40,
+    "Company": "Challenger"
+  }
+]

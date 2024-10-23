@@ -1,0 +1,86 @@
+[
+  {
+    "Title": "Product Desiger",
+    "Term": "Full time",
+    "Sponsored": "No",
+    "Salary": [
+      75000,
+      105000
+    ],
+    "Location": "Remote",
+    "Live": "Yes",
+    "Expiry date": "Feb 29, 2024 00:00"
+  },
+  {
+    "Title": "Marketing Manager",
+    "Term": "Part time",
+    "Sponsored": "Yes",
+    "Salary": [
+      95000,
+      125000
+    ],
+    "Location": "New York",
+    "Live": "Yes",
+    "Expiry date": "Feb 29, 2024 00:00"
+  },
+  {
+    "Title": "Head of Brand",
+    "Term": "Part time",
+    "Sponsored": "No",
+    "Salary": [
+      105000,
+      155000
+    ],
+    "Location": "San Francisco",
+    "Live": "Yes",
+    "Expiry date": "Feb 29, 2024 00:00"
+  },
+  {
+    "Title": "No-code Engineer",
+    "Term": "Full time",
+    "Sponsored": "No",
+    "Salary": [
+      75000,
+      95000
+    ],
+    "Location": "Los Angeles",
+    "Live": "Yes",
+    "Expiry date": "Feb 29, 2024 00:00"
+  },
+  {
+    "Title": "Finance Intern",
+    "Term": "Part time",
+    "Sponsored": "No",
+    "Salary": [
+      45000,
+      55000
+    ],
+    "Location": "Boston",
+    "Live": "Yes",
+    "Expiry date": "Feb 29, 2024 00:00"
+  },
+  {
+    "Title": "Community Manager",
+    "Term": "Full time",
+    "Sponsored": "No",
+    "Salary": [
+      65000,
+      85000
+    ],
+    "Location": "New York",
+    "Live": "Yes",
+    "Expiry date": "Feb 29, 2024 00:00"
+  },
+  {
+    "Title": "Product Developer",
+    "Term": "Part time",
+    "Sponsored": "No",
+    "Salary": [
+      85000,
+      115000
+    ],
+    "Location": "San Francisco",
+    "Live": "Yes",
+    "Expiry date": "Feb 29, 2024 00:00"
+  }
+]
